@@ -11,3 +11,5 @@
 ### Create your own react library & JSX => `done`
 
 ### Why you need hooks & Project => `done`
+
+### Virtual DOM, Fibre & reconciliation => `done`
