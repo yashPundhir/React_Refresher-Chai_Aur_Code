@@ -13,3 +13,5 @@
 ### Why you need hooks & Project => `done`
 
 ### Virtual DOM, Fibre & reconciliation => `done`
+
+### Tailwind & Props in reactJS => `done`
