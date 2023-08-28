@@ -16,4 +16,6 @@
 
 ### Tailwind & Props in reactJS => `done`
 
-### interview counter ques => `done`
+### Interview Ques on Counter App => `done`
+
+### Building a react project: bgChanger => `done`
