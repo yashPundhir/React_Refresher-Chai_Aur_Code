@@ -19,3 +19,5 @@
 ### Interview Ques on Counter App => `done`
 
 ### Building a react project: bgChanger => `done`
+
+### useEffect, useRef and useCallback with 1 project: Random Password Generator => `done`
