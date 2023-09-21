@@ -25,3 +25,5 @@
 ### Custom Hooks in React: Currency Project => `done`
 
 ### React Router Crash Course => `done`
+
+### Context API Crash Course with 2 Projects => `done`
