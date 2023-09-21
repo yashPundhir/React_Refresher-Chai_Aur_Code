@@ -21,3 +21,5 @@
 ### Building a react project: bgChanger => `done`
 
 ### useEffect, useRef and useCallback with 1 project: Random Password Generator => `done`
+
+### Custom Hooks in React: Currency Project => `done`
