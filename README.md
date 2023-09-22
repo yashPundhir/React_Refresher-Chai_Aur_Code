@@ -33,3 +33,5 @@
 ### Redux Toolkit Crash Course => `done`
 
 ### Mega Project in React: Walk-through => `done`
+
+### Mega Project in React: Project Specifications => `done`
