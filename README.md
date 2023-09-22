@@ -31,3 +31,5 @@
 ### Context API with Local Storage => `done`
 
 ### Redux Toolkit Crash Course => `done`
+
+### Mega Project in React: Walk-through => `done`
