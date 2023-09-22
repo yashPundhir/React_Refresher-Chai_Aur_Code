@@ -29,3 +29,5 @@
 ### Context API Crash Course with 2 Projects => `done`
 
 ### Context API with Local Storage => `done`
+
+### Redux Toolkit Crash Course => `done`
