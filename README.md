@@ -35,3 +35,5 @@
 ### Mega Project in React: Walk-through => `done`
 
 ### Mega Project in React: Project Specifications => `done`
+
+### ENV & Appwrite in Mega Project => `done`
