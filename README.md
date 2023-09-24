@@ -37,3 +37,5 @@
 ### Mega Project in React: Project Specifications => `done`
 
 ### ENV & Appwrite in Mega Project => `done`
+
+### Build Authentication Service with Appwrite => `done`
