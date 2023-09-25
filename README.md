@@ -39,3 +39,5 @@
 ### ENV & Appwrite in Mega Project => `done`
 
 ### Build Authentication Service with Appwrite => `done`
+
+### Appwrite Database, File Upload & Custom Queries => `done`
