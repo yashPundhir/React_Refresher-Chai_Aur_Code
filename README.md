@@ -41,3 +41,5 @@
 ### Build Authentication Service with Appwrite => `done`
 
 ### Appwrite Database, File Upload & Custom Queries => `done`
+
+### How to configure redux toolkit in big projects => `done`
