@@ -47,3 +47,5 @@
 ### Production grade react components => `done`
 
 ### How to use React Hook Form in production => `done`
+
+### Adding form and slug values => `done`
