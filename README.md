@@ -53,3 +53,5 @@
 ### Building Pages => `done`
 
 ### CORS & Debugging in Mega Project => `done`
+
+### How to deploy react app to production => `done`
