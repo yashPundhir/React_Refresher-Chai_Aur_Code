@@ -49,3 +49,5 @@
 ### How to use React Hook Form in production => `done`
 
 ### Adding form and slug values => `done`
+
+### Building Pages => `done`
