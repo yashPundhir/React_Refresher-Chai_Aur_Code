@@ -51,3 +51,5 @@
 ### Adding form and slug values => `done`
 
 ### Building Pages => `done`
+
+### CORS & Debugging in Mega Project => `done`
